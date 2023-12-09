@@ -17,7 +17,7 @@ Assalamu Alaikum , I am Meghla Khatun. I am Front End Developer. I am familiar w
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MeghlaKhatun&show_icons=true)  
 
-###GitHub streak stats
+### GitHub Streak stats
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MeghlaKhatun)  
 
 <h3 align="left">My Skill</h3>
@@ -31,3 +31,19 @@ Assalamu Alaikum , I am Meghla Khatun. I am Front End Developer. I am familiar w
 - We click on the review route to show a some testimonials review . But must be logged in to view a review route. Otherwise testimonials will not show.
 #### Live Link - https://event-management-ass.web.app/
 
+### NewsPaper-fullStack-Website
+- If the user is not logged in, the Add Articles ,Premium Articles, Subscription , My Articles and Profile Page routes will not show in the navbar. Also the navbar will not show a dashboard routes unless the user is admin.
+- we click on the 'add article' button in the add article form to store a data in the mongodb database.
+- Click on the details button in the "all article" page to show a article details. also premium article design has been deferent .
+- We also search article in the all article page.
+- We can add article in the add article page. Also admin can add publisher in the "add publisher" page.
+#### Live Link - https://newspaper-fullstack-website.web.app/
+
+
+### Crud-and-jwt
+- we click on the 'add service' button in the add service form to store a data in the mongodb database.
+- Click on the view details button to show a card details.
+- Click on card edit button in the my service route to show an update form and we can update that card service here.Also click on the delete button to delete a card in the my service route.
+- We also search card in the all service page.
+- we hover the testimonials card to show a review.
+#### Live Link - https://crud-and-jwt.web.app/
