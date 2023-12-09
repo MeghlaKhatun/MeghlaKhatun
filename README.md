@@ -10,16 +10,15 @@ Skills: REACT / JS / HTML / CSS/Tailwind/Firebase
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about  React 
 
-<h3 align="left">Contact with me</h3>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MeghlaKhatun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/meghla.khatun.944)  
 
-<h3 align="left">Most Use Language</h3>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeghlaKhatun)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">GitHub stats</h3>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MeghlaKhatun&show_icons=true)  
 
-<h3 align="left">GitHub streak stats</h3>
+
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MeghlaKhatun)  
 
 <h3 align="left">My Skill</h3>
